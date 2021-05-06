@@ -1,3 +1,5 @@
+> :warning: **This project is inactive and has been archived**
+
 # Airdrops
 
 ![enter image description here](https://img.shields.io/github/license/Reckfullies/Airdrops.svg?style=popout)
